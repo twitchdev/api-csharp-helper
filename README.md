@@ -2,7 +2,7 @@
 
 ## What's in this
 This C# Helper class allows you to easily interact with Twitch's Helix API endpoints.
-Most Helix API endpoints are supported. 
+Most Helix API endpoints are supported (as of 7/12/2019).
 Data models for Helix responses provided. 
 Sample usage of interacting with the helper class. 
 
